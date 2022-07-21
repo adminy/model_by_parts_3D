@@ -1,0 +1,8 @@
+node_modules
+dist
+src/assets
+*lock.yaml
+*.fbx
+*.glb
+**/.DS_Store
+.vscode
